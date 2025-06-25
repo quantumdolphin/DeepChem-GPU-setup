@@ -145,11 +145,6 @@ conda activate deepchem-gpu
 
 ---
 
-## 📢 Usage Note for Resume / GitHub
-
-This installation was performed and documented for sharing on GitHub to help others build GPU-accelerated cheminformatics environments with modern ML tools. It is suitable for showcasing on a technical resume or portfolio.
-
----
 
 ## ✅ Status
 
