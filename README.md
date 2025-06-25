@@ -150,4 +150,4 @@ conda activate deepchem-gpu
 
 Fully functional and tested environment as of June 2025.
 
-End of installation guide.
+
